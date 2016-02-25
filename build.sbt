@@ -1,6 +1,6 @@
 name := """scala-play-nexus"""
 
-version := "2.0-SNAPSHOT"
+version := "3.0-SNAPSHOT"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
